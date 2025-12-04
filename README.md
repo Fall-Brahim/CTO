@@ -76,7 +76,7 @@ L'application propose un **système de questionnaire intelligent** pour créer u
 - **Django REST Framework 3.15.2** - API RESTful
 - **djangorestframework-simplejwt 5.4.0** - Authentification JWT
 - **Pillow 11.0.0** - Gestion des images
-- **SQLite** (dev) / **PostgreSQL** (production)
+- **SQLite** (dev) 
 
 ### Architecture
 - Architecture REST API
@@ -96,7 +96,7 @@ L'application propose un **système de questionnaire intelligent** pour créer u
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-username/CTO.git
+git clone https://github.com/Fall-Brahim/CTO.git
 cd CTO
 ```
 
@@ -531,8 +531,8 @@ Ce projet est développé dans le cadre d'un événement académique (Nuit de l'
 
 ## 📞 Contact & Support
 
-- 🐛 **Issues** : [GitHub Issues](https://github.com/votre-username/CTO/issues)
-- 📧 **Email** : votre-email@example.com
+- 🐛 **Issues** : [GitHub Issues](https://github.com/Fall-Brahim/CTO/issues)
+- 📧 **Email** : fallbrahimalioun@gmail.
 - 🌐 **Site** : [Nuit de l'Info](https://www.nuitdelinfo.com/)
 
 ---
@@ -540,7 +540,7 @@ Ce projet est développé dans le cadre d'un événement académique (Nuit de l'
 ## 🎉 Remerciements
 
 - **Decathlon Digital** pour le défi inspirant
-- **Nuit de l'Info 2024** pour l'organisation
+- **Nuit de l'Info 2025** pour l'organisation
 - La communauté **Django** et **DRF**
 
 ---
