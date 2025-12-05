@@ -1,6 +1,6 @@
 # 🏋️ CTO - Santé Posturale & Prévention des Blessures
 
-> **Défi Decathlon - Nuit de l'Info 2024**  
+> **Défi Decathlon - Nuit de l'Info 2025**  
 > Application Django/DRF pour guider les utilisateurs dans la réalisation correcte de mouvements sportifs et prévenir les blessures.
 
 [![Django](https://img.shields.io/badge/Django-5.1.4-green.svg)](https://www.djangoproject.com/)
