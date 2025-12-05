@@ -156,13 +156,6 @@ SECRET_KEY=votre-secret-key-django-super-secrete
 DEBUG=True
 ALLOWED_HOSTS=localhost,127.0.0.1
 
-# Database (PostgreSQL pour production)
-DB_NAME=cto_database
-DB_USER=postgres
-DB_PASSWORD=votre-password
-DB_HOST=localhost
-DB_PORT=5432
-
 # JWT Configuration
 ACCESS_TOKEN_LIFETIME=60  # minutes
 REFRESH_TOKEN_LIFETIME=7  # jours
