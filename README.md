@@ -509,7 +509,7 @@ git push origin feature/ma-nouvelle-fonctionnalite
 
 ## 👥 Équipe
 
-Projet réalisé dans le cadre de la **Nuit de l'Info 2024** - Défi Decathlon
+Projet réalisé dans le cadre de la **Nuit de l'Info 2025** - Défi Decathlon
 
 ### Contributeurs
 - Votre équipe ici
@@ -518,7 +518,7 @@ Projet réalisé dans le cadre de la **Nuit de l'Info 2024** - Défi Decathlon
 
 ## 📄 Licence
 
-Ce projet est développé dans le cadre d'un événement académique (Nuit de l'Info 2024).
+Ce projet est développé dans le cadre d'un événement académique (Nuit de l'Info 2025).
 
 ---
 
@@ -542,6 +542,6 @@ Ce projet est développé dans le cadre d'un événement académique (Nuit de l'
   
 **⭐ Si ce projet vous plaît, n'hésitez pas à lui donner une étoile sur GitHub ! ⭐**
 
-Made with ❤️ during Nuit de l'Info 2024
+Made with ❤️ during Nuit de l'Info 2025
 
 </div>
